@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://zhishuai.xyz"
+url: "https://zhongwenhu.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -39,10 +39,10 @@ avatar: "/img/zhishuai.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Zhishuai Zhang
-  email: "zhshuai.zhang@gmail.com"
-  github: bairdzhang    # eg. daattali
-  linkedin: zhishuai 
+  name: Zhongwen Hu
+  email: "wendyhu98@outlook.com"
+  github: Zhongwen Hu
+  linkedin: Zhongwen Hu
 
 # Select which links to show in the footer
 footer-links-active:
@@ -78,7 +78,7 @@ url-pretty: "https://zhishuai.xyz"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-110954976-1"
+#google_analytics: "UA-110954976-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -97,7 +97,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "China/Shanghai"
+timezone: "China/Beijing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
