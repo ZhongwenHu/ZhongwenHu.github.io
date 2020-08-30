@@ -6,7 +6,7 @@ use-site-title: true
 ---
 <center><b>Contact me:</b> wendyhu98@outlook.com</center>
 
-Hi, I am Zhongwen Hu. I graduated from Wuhan University as a Bchelor in Mathematics in June of 2020. ([My CV](https://zhongwenhu.github.io/cv_zhongwen.pdf)).
+Hi, I am Zhongwen Hu. I graduated from Wuhan University as a Bachelor in Mathematics in June of 2020. 
 I love mathematics and its applications, especially in finance. I interested in Pilates, musicals, sci-fis and KPOP! 
 
 ## Experiences
